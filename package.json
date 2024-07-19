@@ -1,21 +1,8 @@
-{
-  "name": "progra_comercial_ej1",
-  "version": "1.0.0",
-  "description": "Backend de prueba",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.19.2",
-    "mysql2": "^3.10.3",
-    "sequelize": "^6.37.3"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
-  "author": "Frank",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.4"
-  }
-}
+# Branching
+
+## Descripción
+
+Este proyecto tiene como objetivo enseñarles a utilizar de manera sencilla el branching, los code reviews y las pull request. 
+
+## Nombre de Arturo
+Arturo Monterroso - 201608006
